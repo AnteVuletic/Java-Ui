@@ -1,0 +1,19 @@
+{
+    "broker": "tcp://localhost:1883",
+    "clientId": "mate",
+    "topic": "WATER_STATISTIC",
+    "displays": [
+        {
+            "unitType": "Celsius"
+        },
+        {
+            "unitType": "Bar"
+        },
+        {
+            "unitType": "Liter"
+        },
+        {
+            "unitType": "CubicMeter"
+        }
+    ]
+}

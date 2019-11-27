@@ -1,0 +1,30 @@
+{
+	"Topic": "WATER_STATISTIC",
+	"File": "C:\\Users\\Ante\\Desktop\\Faks\\Java\\04_Vježba\\MQTT\\src\\main\\java\\mqmt\\payload\\waterstatistics.json",
+	"sensorStatistics": [
+		{
+			"Factor": 10,
+			"StartOfRange": -3266.8,
+			"EndOfRange": 3266.8,
+			"unitType": "Celsius"
+		},
+		{
+			"Factor": 1000,
+			"StartOfRange": 0.0,
+			"EndOfRange": 65336.0,
+			"unitType": "Bar"
+		},
+		{
+			"Factor": 0,
+			"StartOfRange": -3266.8,
+			"EndOfRange": 3266.8,
+			"unitType": "Liter"
+		},
+		{
+			"Factor": 10,
+			"StartOfRange": 0.0,
+			"EndOfRange": 6533.6,
+			"unitType": "CubicMeter"
+		}
+	]
+}
