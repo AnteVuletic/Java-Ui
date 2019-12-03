@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3184a90a-aed9-49d0-ac54-eff173ecb716" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mqmt/classes/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mqmt/classes/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mqmt/classes/SensorCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mqmt/classes/WaterDisplayStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mqmt/classes/WaterDisplayStatisticsDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mqmt/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mqmt/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mqmt/Publisher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mqmt/classes/WaterStatisticsPublisher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mqmt/helpers/RandNumber.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3184a90a-aed9-49d0-ac54-eff173ecb716" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +35,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ante\Desktop\Faks\Java\05_Vježba\src\main\java\mqmt" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
